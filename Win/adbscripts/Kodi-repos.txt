@@ -1,0 +1,35 @@
+808853 - TeaTV 2.3 Official
+680016 - FreeFlix HQ 1.7.5 Official
+667326 - Terrarium TV 1.7.3 Official
+599304 - UKTVNow 7.7 Official - Fire Devices & Android Boxes
+074273 - UKTVNow 8.5 Official - Touch Devices
+440924 - SPMC - 16.7.1 Official 32bit
+899384 - SPMC - 16.7.1 Official 64bit
+220057 - TV Online Plus
+636925 - MobDro
+300205 - MisFit Mods app
+680032 - Bobby Movie
+300008 - Mouse Toggle
+300000 - Digibit VPN - For more info visit Digibit VPN
+600000 - STREaM!
+600002 - MyGica Media Center (Kodi 17.0 for Pre Android 5 devices)
+600003 - Kodi 17.3 32bit
+600004 - Kodi 17.3 64bit
+
+kodi repos
+http://jesusboxrepo.xyz/repo - Genesis Reborn
+http://mediarepos.net/kodistuff - Bennu, Covenant, Collosus Repo, Made In Canada
+http://repo.ares-project.com/magic/ - Ares Wizard
+http://ares-repo.eu - New Ares Wizard
+http://daffyslist.com/repo - All Eyes On Me
+http://repozip.teamzt.seedr.io - TeamZT Build
+http://mediarepos.net/tco - Made In Canada
+
+Verizon-291LVW-5F4
+8f4015aa
+
+REM adb install -r kodi-files\kodi-17.4-Krypton-armeabi-v7a.apk
+REM To backup a stick: adb pull /sdcard/Android/data/org.xbmc.kodi/files/.kodi/ ./JQuinn
+REM To restore: adb push JQuinn /sdcard/Android/data/org.xbmc.kodi/files/.kodi/
+REM To restore: adb push FireTVBox /sdcard/Android/data/org.xbmc.kodi/files/.kodi/
+REM To restore: adb push Jill /sdcard/Android/data/org.xbmc.kodi/files/.kodi/
